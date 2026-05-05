@@ -1,0 +1,6 @@
+@WebSegundocorte_HostAddress = http://localhost:5182
+
+GET {{WebSegundocorte_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
