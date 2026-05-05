@@ -1,0 +1,1 @@
+buenas tardes importante a la hora de funcionar en la direccion del localhost se agrega /swagger/index.html para que entre y funcione. tuve que comprimir el archivo con zip por que a la hora de intentar subirlo me daba un error, el zip no abria haci que tuve que investigar con ia por que era el error y lo corregi
